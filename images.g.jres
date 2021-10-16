@@ -1,4 +1,9 @@
 {
+    "image1": {
+        "data": "hwQQABAAAAAAAAIgAAAAAAAAAgIAAgAAAAACIgACAAAAICIgAAIAAAAAIiAgAgAAAAAgLyICAAAgIvIvIgIAACACIi8iAgAAACDyLyICAAAiIvIvIgIAAAAAIiIiAAAAAAAgIiICAAAAACAgACIAAAAAICAAIAAAAAAiIAAgAgAAAAIgAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Apider"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",

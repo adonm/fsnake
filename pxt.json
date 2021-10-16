@@ -2,7 +2,8 @@
     "name": "fsnake",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "color-coded-tilemap": "*"
     },
     "files": [
         "main.blocks",
